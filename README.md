@@ -11,7 +11,7 @@ Las suscripciones y desuscripciones las hacemos como comunmente las realizamos e
 
 ## Instalacion 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/Eduardo73Martinez/Netflix.git
 ```
 
 ## Tecnologias usadas 
